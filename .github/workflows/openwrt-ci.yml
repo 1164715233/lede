@@ -93,6 +93,13 @@ jobs:
           # CONFIG_PACKAGE_luci-app-wol is not set
           # CONFIG_PACKAGE_luci-app-vlmcsd is not set
           # CONFIG_PACKAGE_luci-app-flowoffload is not set
+          # CONFIG_PACKAGE_nlbwmon is not set
+          # CONFIG_PACKAGE_luci-app-nlbwmon is not set
+          # CONFIG_PACKAGE_vsftpd-alt is not set
+          # CONFIG_PACKAGE_luci-app-vsftpd is not set
+          # CONFIG_PACKAGE_ddns-scripts is not set
+          # CONFIG_PACKAGE_ddns-scripts_aliyun is not set
+          # CONFIG_PACKAGE_ddns-scripts_dnspod is not set
           EOF
           #
           # ===============================================================
