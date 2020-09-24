@@ -61,7 +61,7 @@ jobs:
           cd package
           mkdir openwrt-packages
           cd openwrt-packages
-          git clone https://github.com/1164715233/openwrt-packages-2.git
+          git clone git clone https://github.com/1164715233/packages.git
       - name: Update feeds
         run: |
           ./scripts/feeds update -a
